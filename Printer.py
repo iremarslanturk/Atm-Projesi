@@ -22,3 +22,4 @@ button_hayır.grid(row=2, column=0, padx=50, pady=3)
 root.mainloop()
 
 
+
